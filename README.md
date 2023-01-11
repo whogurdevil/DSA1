@@ -10,5 +10,6 @@
 | Jan 7 | [containsdupli.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/containsdupli.cpp) | [leetcode](https://leetcode.com/problems/contains-duplicate/description/) | sets |
 | Jan 9 | [TwoSum.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/TwoSum.cpp) | [leetcode](https://leetcode.com/problems/two-sum/description/?envType=study-plan&id=data-structure-i) | Vector Array |
 | Jan 10 | [maxfreqnumhshmp.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/maxfreqnumhshmp.cpp) | [CodingNinjas](https://www.codingninjas.com/codestudio/problems/maximum-frequency-number_920319?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar) | Hashmaps |
+| Jan 11 | [SimmArr.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/SimmArr.cpp) | [CodingNinjas](https://www.codingninjas.com/codestudio/problems/find-similarities-between-two-arrays_1229070?topList=love-babbar-dsa-sheet-problems) | Hashmaps |
 
 
