@@ -3,6 +3,11 @@
 ## This repo is for saving the solutions of practised questions of programming.
 ## [Connect on linkedIn for daily update](www.linkedin.com/in/gurdev-singh-49031b201)
 
+![img](pc.png)
+
+
+
+
 | Date     | Problem Solved | Problem URL | logic used |
 |----------|----------|----------|----------|
 | Jan 1-2    | [subarray.cpp](https://github.com/gurdevil/2023/blob/main/geeksforgeeeks/subarray.cpp)  | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category) | Vector Array |
