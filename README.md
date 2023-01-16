@@ -1,7 +1,7 @@
 # Problems
 
 ## This repo is for saving the solutions of practised questions of programming.
-## [Connect on linkedIn for daily update](www.linkedin.com/in/gurdev-singh-49031b201) 
+## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
 
 ![img](pc.png)
 
