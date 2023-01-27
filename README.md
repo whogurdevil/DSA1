@@ -1,4 +1,4 @@
-![count.png](https://github.com/whogurdevil/Problems/tools/blob/main/count.png)
+![count.png](https://github.com/whogurdevil/Problems/blob/main/tools/count.png)
 ## This repo is for saving the solutions of practised questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
 
