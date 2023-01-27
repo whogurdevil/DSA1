@@ -17,14 +17,18 @@ def replace_first_line(filepath, new_line):
         f.writelines(lines)
 
 def text_to_image(text, font_path, font_size, image_path):
-    font = ImageFont.truetype(font_path, font_size)
+    font = ImageFont.truetype(font_path, font_size*10)
     size = font.getbbox(text)
-    width = size[2]*2
-    height = size[3]*2
+    width,height = (800,400)
     image = Image.new('RGBA', (width, height), (255, 255, 0, 255))
     draw = ImageDraw.Draw(image)
-    draw.text((0,0), text, font=font, fill='blue')
+    x = (width - 600) / 2
+    y = (height - 180) / 2
+    draw.text((x, y), text, font=font, fill='blue')
     image.save(image_path)
+
+
+
 
 
 path = "F:\\repos\\Problems"
@@ -33,7 +37,7 @@ extension = ".cpp"
 count = count_files(path, extension)
 
 # generate image with text
-text = f"Number of .cpp files: {count}"
+text = f"Solved: {count}"
 font_path = "arial.ttf"
 font_size = 12
 image_path = os.path.join(path, "count.png")
