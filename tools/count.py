@@ -19,9 +19,11 @@ def replace_first_line(filepath, new_line):
 def text_to_image(text, font_path, font_size, image_path):
     font = ImageFont.truetype(font_path, font_size)
     size = font.getbbox(text)
-    image = Image.new('RGBA', (size[2], size[3]), (255, 255, 255, 0))
+    width = size[2]*2
+    height = size[3]*2
+    image = Image.new('RGBA', (width, height), (255, 255, 0, 255))
     draw = ImageDraw.Draw(image)
-    draw.text((0,0), text, font=font)
+    draw.text((0,0), text, font=font, fill='blue')
     image.save(image_path)
 
 
