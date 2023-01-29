@@ -40,5 +40,5 @@ count = count_files(path, extension)
 text = f"Solved: {count}"
 font_path = "arial.ttf"
 font_size = 12
-image_path = os.path.join(path, "./tools/count.png")
+image_path = os.path.join(path, "./count.png")
 text_to_image(text, font_path, font_size, image_path)
