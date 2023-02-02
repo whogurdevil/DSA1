@@ -10,14 +10,13 @@ def count_files(path, extension):
                 count += 1
     return count
 
-def replace_first_line(path, new_line):
-    with open(path, "r") as file:
-        lines = file.readlines()
-    lines[0] = new_line + "\n"
-    with open(path, "w") as file:
-        file.writelines(lines)
-
-
+def replace_first_line(filepath, new_line):
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    lines[0] = new_line
+    with open(filepath, 'w') as f:
+        f.write(lines[0])
+        f.writelines(lines[1:])
 
 
 def text_to_image(text, font_path, font_size, image_path):
