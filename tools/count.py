@@ -35,7 +35,7 @@ def text_to_image(text, font_path, font_size, image_path):
 
 
 
-path = "F:\\repos\\Problems"
+path = "F:\\repos\\Problems\\"
 extension = ".cpp"
 
 count = count_files(path, extension)
@@ -47,8 +47,8 @@ now = datetime.datetime.now()
 text = f"Solved: {count}"
 font_path = "arial.ttf"
 font_size = 12
-image_path = os.path.join(path, "{}_{}_{}.png".format(now.hour, now.minute, now.second))
+image_path = os.path.join("F:\\repos\\Problems\\tools\\", "{}_{}_{}.png".format(now.hour, now.minute, now.second))
 text_to_image(text, font_path, font_size, image_path)
 
-new_line = f"![count.png]({now.hour}_{now.minute}_{now.second}.png?v=2)"
+new_line = f"![count.png](./tools/{now.hour}_{now.minute}_{now.second}.png?v=2)"
 replace_first_line("F:\\repos\\Problems\\README.md", new_line)
