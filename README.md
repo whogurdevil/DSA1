@@ -1,4 +1,4 @@
-![count.png](./tools/count.png)
+![count.png](tools/count.png)
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
 
