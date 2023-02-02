@@ -50,5 +50,5 @@ font_size = 12
 image_path = os.path.join("F:\\repos\\Problems\\tools\\", "{}_{}_{}.png".format(now.hour, now.minute, now.second))
 text_to_image(text, font_path, font_size, image_path)
 
-new_line = f"![count.png](./tools/{now.hour}_{now.minute}_{now.second}.png?v=2)"
+new_line = f"![count.png](tools/{now.hour}_{now.minute}_{now.second}.png?v=2)"
 replace_first_line("F:\\repos\\Problems\\README.md", new_line)

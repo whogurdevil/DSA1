@@ -1,4 +1,4 @@
-![count.png](./tools/22_17_5.png?v=2)
+![count.png](tools/22_19_52.png?v=2)
 
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
