@@ -1,4 +1,4 @@
-![count.png](tools/21_6_5.png?v=2)
+![count.png](tools/23_19_26.png?v=2)
 
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -28,3 +28,4 @@
 | Feb 2 | -React navigation(screen,tab,drawer) ans Hooks -[subsets.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/subsets.cpp) -[subsequences.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/subsequences.cpp) -[keypadproblem.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/keypadproblem.cpp) | -[LeetCode](https://leetcode.com/problems/subsets/) -[CodingNinjas](https://www.codingninjas.com/codestudio/problems/subsequences-of-string) -[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | Recursion |
 | Feb 3 | -[permutation.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/permutation.cpp) -React native collaborative work using github | [LeetCode](https://leetcode.com/problems/permutations/description/) | Reccursion | 
 | Feb 4-5 | [ratinmaze.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeks/ratinmaze.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Reccursion |
+| Feb 6 | [shuffleTheArr.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/shuffleTheArr.cpp) - React native environment set up with Hackathon team | [LeetCode.cpp](https://leetcode.com/problems/shuffle-the-array/) | Double pointer |
