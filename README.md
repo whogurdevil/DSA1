@@ -1,4 +1,4 @@
-![count.png](tools/22_31_18.png?v=2)
+![count.png](tools/22_45_13.png?v=2)
 
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -29,4 +29,5 @@
 | Feb 3 | -[permutation.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/permutation.cpp) -React native collaborative work using github | [LeetCode](https://leetcode.com/problems/permutations/description/) | Reccursion | 
 | Feb 4-5 | [ratinmaze.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/ratinmaze.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Reccursion |
 | Feb 6 | [shuffleTheArr.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/shuffleTheArr.cpp) - React native environment setup on hackathon's team's system | [Leetcode](https://leetcode.com/problems/shuffle-the-array/) | Dual Pointer |
-| Feb 7 | [fruitsIntoBasket.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/fruitsIntoBasket.cpp)) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/submissions/893463886/) | HashMaps | 
+| Feb 7 | [fruitsIntoBasket.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/fruitsIntoBasket.cpp) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/submissions/893463886/) | HashMaps | 
+| Feb 8 | [jumpGame2.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/jumpGame2.cpp) | [LeetCode](https://leetcode.com/problems/jump-game-ii/description/) | Common |
