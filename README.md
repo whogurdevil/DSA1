@@ -1,4 +1,4 @@
-![count.png](tools/16_58_54.png?v=2)
+![count.png](tools/17_49_19.png?v=2)
 
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -39,3 +39,4 @@
 | Mar 10-16 | [checkPalindromeLL.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeks/checkPalindromeLL.cpp) [addTwoLL.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeks/addTwoLL.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) | Linked List |
 | July 9 | [cloneLL.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/cloneLL.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1) | LL rearranginf or map |
 | July 10 | [mergeSortLL.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/mergeSortLL.cpp)  [flattenLL.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/flattenLL.cpp) | [CodingNinjas](https://www.codingninjas.com/studio/problems/mergesort-linked-list_630514) [CodingNinjas](https://www.codingninjas.com/studio/problems/flatten-a-linked-list_1112655) | LL Two pointer |
+| July 11 | [twoStacks.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/twoStacks.cpp) | [CodingNinjas](https://www.codingninjas.com/studio/problems/two-stacks_983634) | Stack array |
