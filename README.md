@@ -1,4 +1,4 @@
-![count.png](tools/17_49_19.png?v=2)
+![count.png](tools/17_6_35.png?v=2)
 
 ## This repo is for saving the solutions of practise questions of programming.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -47,3 +47,4 @@
 July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/celebrity.cpp) [maxRectangle.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/maxRectangle.cpp) | [geeksforgeeks](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) [geeksforgeeks](https://practice.geeksforgeeks.org/problems/max-rectangle/1) | Stacks |
 | July 18 | [nStacks.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/nStacks.cpp) | [codingNinjas](https://www.codingninjas.com/studio/problems/n-stacks-in-an-array_1164271) | Stacks |
 | July 19-20 | [getMinStack.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/getMinStack.cpp) | [CodingNinjas](https://www.codingninjas.com/studio/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) | Stacks |
+| July 21 | [queue.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/queue.cpp) [circularQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/circularQueue.cpp) | [codingNinjas](https://www.codingninjas.com/studio/problems/queue-using-array-or-singly-linked-list_2099908) [codingNinjas](https://www.codingninjas.com/studio/problems/circular-queue_1170058) | Stacks |
