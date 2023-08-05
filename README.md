@@ -1,6 +1,6 @@
 ![count.png](tools/16_55_31.png?v=2)
 
-## This repo is for saving the solutions of practise questions of DSA.
+# This repo is for saving the solutions of practise questions of DSA.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
 
 | Date     | Solution | Problem URL | logic used |
