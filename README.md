@@ -1,11 +1,12 @@
 ![count.png](tools/16_55_31.png?v=2)
 
-## This repo is for saving the solutions of practise questions of programming.
+# This repo is for storing the solutions of practise questions of DSA.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
 
-| Date     | Problem Solved | Problem URL | logic used |
+
+| Date     | Solution | Problem URL | logic used |
 |----------|----------|----------|----------|
-| Jan 1-2    | [subarray.cpp](https://github.com/gurdevil/2023/blob/main/geeksforgeeeks/subarray.cpp)  | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category) | Vector Array |
+| Jan 1-2    | [subarray.cpp](https://github.com/gurdevil/2023/blob/main/geeksforgeeeks/subarray.cpp)  | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category) | Vector |
 | Jan 6 | [romantomath.cpp](https://github.com/gurdevil/2023/blob/main/leetcode/romantomath.cpp) | [leetcode](https://leetcode.com/problems/roman-to-integer/description/) | Hashmap |
 | Jan 7 | [containsdupli.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/containsdupli.cpp) | [leetcode](https://leetcode.com/problems/contains-duplicate/description/) | sets |
 | Jan 9 | [TwoSum.cpp](https://github.com/whogurdevil/Problems/blob/main/leetcode/TwoSum.cpp) | [leetcode](https://leetcode.com/problems/two-sum/description/?envType=study-plan&id=data-structure-i) | Vector Array |
@@ -52,4 +53,7 @@ July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/g
 | July 23 | [reverseQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/reverseQueue.cpp) [kReverseQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/kReverseQueue.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/queue-reversal/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Queues |
 | July 24-25 | [negativeInteger.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/negativeInteger.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Queue |
 | July 26 | [repeatingChar.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/repeatingChar.cpp) |[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | Queues |
+| July 27-28 | [circularTour.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/circularTour.cpp) |[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) | Queue |
+| July 29 | [kQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/kQueue.cpp) | [geeksforgeeks](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/) | Queue |
+
 | Sept 11 | [heightOfTree.cpp]() | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | Trees |
