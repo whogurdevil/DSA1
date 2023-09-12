@@ -1,3 +1,1 @@
-insertAtPos(tail, 3, 12);
-    insertAtPos(tail, 12, 13);
-    print(tail);
+1 2 3 -1 -1 4 -1 -1 5 6 -1 -1 7 -1 -1
