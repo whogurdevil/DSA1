@@ -54,6 +54,6 @@ July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/g
 | July 24-25 | [negativeInteger.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/negativeInteger.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Queue |
 | July 26 | [repeatingChar.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/repeatingChar.cpp) |[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | Queues |
 | July 27-28 | [circularTour.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/circularTour.cpp) |[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) | Queue |
-| July 29 | [kQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/kQueue.cpp) | [geeksforgeeks](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/) | Queue |
-
-| Sept 11 | [heightOfTree.cpp]() | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | Trees |
+| July 29 | [kQueue.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/kQueue.cpp) | [GeeksForGeeks](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/) | Queue |
+| Sept 11 | [heightOfTree.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/heightOfTree.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | Trees |
+| Sept 12 | [countLeaf.cpp](https://github.com/whogurdevil/Problems/blob/main/codingninja/countLeaf.cpp) | [CodingNinjas](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055)
