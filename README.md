@@ -1,4 +1,4 @@
-![count.png](tools/16_5_40.png?v=2)
+![count.png](tools/18_15_6.png?v=2)
 
 # This repo is for storing the solutions of practise questions of DSA.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -60,3 +60,4 @@ July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/g
 | Sept 13 | [diameterOfTree.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/diameterOfTree.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) | Trees |
 | Sept 14 | [isBalanced.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/isBalanced.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1) | Trees |
 | Nov 26 | [verticalOrderTraversal.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/verticalOrderTraversal.cpp) [topView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/topView.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Trees(horizontal and vertical distances from root node) use with mao and queue|
+| Nov 27 | [bottomView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/bottomView.cpp) [leftView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/leftView.cpp) [rightView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/rightView.cpp) [diagonalView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/diagonalView.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) | Trees(remeber to pass map by reference and use recursion with distances from root) | 
