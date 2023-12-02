@@ -1,4 +1,4 @@
-![count.png](tools/18_15_6.png?v=2)
+![count.png](tools/18_9_27.png?v=2)
 
 # This repo is for storing the solutions of practise questions of DSA.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
@@ -62,3 +62,4 @@ July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/g
 | Nov 26 | [verticalOrderTraversal.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/verticalOrderTraversal.cpp) [topView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/topView.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Trees(horizontal and vertical distances from root node) use with map and queue|
 | Nov 27 | [bottomView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/bottomView.cpp) [leftView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/leftView.cpp) [rightView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/rightView.cpp) [diagonalView.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/diagonalView.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) | Trees(remeber to pass map by reference and use recursion with distances from root) |
 | Nov 29 | [longestBloodlineSum.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/longestBloodlineSum.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | Trees |
+| Dec 2 | [lca.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/lca.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Trees reccursion |
