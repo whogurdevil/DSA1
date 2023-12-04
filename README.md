@@ -64,3 +64,4 @@ July 16-17 | [celebrity.cpp](https://github.com/whogurdevil/Problems/blob/main/g
 | Nov 29 | [longestBloodlineSum.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/longestBloodlineSum.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | Trees |
 | Dec 2 | [lca.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/lca.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Trees reccursion |
 | Dec 3 | [ksumpaths.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/ksumpaths.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/k-sum-paths/1) | Tees reccursion |
+| Dec 4 | [kthCommonAncestor.cpp](https://github.com/whogurdevil/Problems/blob/main/geeksforgeeeks/kthCommonAncestor.cpp) | [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) | Trees reccursion |
