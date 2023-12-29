@@ -24,7 +24,7 @@ def text_to_image(text, font_path, font_size, image_path):
     font = ImageFont.truetype(font_path, font_size*10)
     size = font.getbbox(text)
     width,height = (800,400)
-    image = Image.new('RGBA', (width, height), (255, 255, 0, 255))
+    image = Image.new('RGBA', (width, height), (140, 225, 27))
     draw = ImageDraw.Draw(image)
     x = (width - 600) / 2
     y = (height - 180) / 2

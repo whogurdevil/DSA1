@@ -1,4 +1,4 @@
-![count.png](tools/17_48_2.png?v=2)
+![count.png](tools/18_14_16.png?v=2)
 
 # This repo is for storing the solutions of practise questions of DSA.
 ## [Connect on linkedIn for daily update](https://www.linkedin.com/in/gurdevsingh001) 
